@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Senior-Uz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Backend development  at uDevs company (udev.io)
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Omadbek (@Senior-Uz)
+- 👀 I’m a Web Developer
+- 🌱 I’m currently learning Backend development at uDevs company (udev.io)
 - 📫 How to reach me jaloldinovuz@gmail.com
 
 <!---
